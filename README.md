@@ -32,7 +32,7 @@ D) El Firewall de Linux y certificados SSL.
 
 ---
 
-5\. ¿Qué herramienta se recomienda instalar en entornos de servidores o sin interfaz gráfica?  
+5\. ¿Qué herramienta se recomienda instalar en entornos sin interfaz gráfica?  
 A) Docker Desktop.  
 B) Docker Cloud.  
 C) Docker Engine.  
