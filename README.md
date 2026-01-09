@@ -136,7 +136,7 @@ D) Permite que la imagen funcione sin necesidad de tener instalado Docker Engine
 
 ---
 
-18\. ¿Qué versión de Docker Compose se considera un estandar y se usa como plugin del CLI?  
+18\. ¿Qué versión de Docker Compose se considera un estándar y se usa como plugin del CLI?  
 A) Docker Compose V1.  
 B) Docker Compose V2.  
 C) Docker Compose Pro.  
